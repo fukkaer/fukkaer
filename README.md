@@ -1,4 +1,5 @@
 - Hi, I’m @fukkaer
+- I program in my free time.
 - I'm Unemployed. Never busy. Need job, or something.
 - I’m interested in Programming, that's why I'm on GitHub
 - Did courses in Python, currently doing self study until i get hired.
