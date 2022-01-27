@@ -1,4 +1,5 @@
 - Hi, I’m @fukkaer
+- I'm Unemployed. Never busy. Need job, or something.
 - I’m interested in Programming, that's why I'm on GitHub
 - I’m currently learning Python, SQL
 - I might look to collaborate
