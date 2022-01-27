@@ -6,6 +6,8 @@
 - How to reach me:
 - Reddit: [u/fukkaer](https://www.reddit.com/u/fukkaer)
 - Email: fukno6787@gmail.com
+- 
+- I listen to music while programming, highly suggest it.
 
 <!---
 fukkaer/fukkaer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
