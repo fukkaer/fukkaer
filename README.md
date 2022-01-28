@@ -10,6 +10,7 @@
 - How to reach me:
 - Reddit: [u/fukkaer](https://www.reddit.com/u/fukkaer)
 - Email: fukno6787@gmail.com
+- Twitter: [@fukkaer](https://www.twitter.com/fukkaer) Send me a DM otherwise I won't notice, they get forwarded to my email.
 - 
 - I listen to music while programming, highly suggest it.
 
