@@ -15,7 +15,6 @@
 - .
 - .
 - Future Projects: create Machine learning algorithm at some point. Maybe create O.S that runs over windows, just because the idea is intriguing.
-- I listen to music while programming, highly suggest it.
 
 <!---
 fukkaer/fukkaer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
