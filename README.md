@@ -12,7 +12,9 @@
 - Email: fukno6787@gmail.com
 - Twitter: [@fukkaer](https://www.twitter.com/fukkaer) Send me a DM otherwise I won't notice, they get forwarded to my email.
 - Linkedin: No Linkedin, there's too much spam.
-- 
+- .
+- .
+- Future Projects: create Machine learning algorithm at some point. Maybe create O.S that runs over windows, just because the idea is intriguing.
 - I listen to music while programming, highly suggest it.
 
 <!---
