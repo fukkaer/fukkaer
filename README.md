@@ -16,6 +16,8 @@
 - .
 - Future Projects: create Machine learning algorithm at some point. Maybe create O.S that runs over windows, just because the idea is intriguing.
 - Pro tip: Remember to create the necessary txt files, needed by your compiled exe's, so you don't spend 10 minutes figuring out what caused a crash on startup.
+- .
+- Taking a break for a few days
 
 <!---
 fukkaer/fukkaer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
