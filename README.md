@@ -8,7 +8,6 @@
 -  Soon C++, because game development may be interesting at some point.
 - I might look to collaborate
 - How to reach me:
-- Reddit: [u/fukkaer](https://www.reddit.com/u/fukkaer)
 - Email: fukno6787@gmail.com
 - Twitter: [@fukkaer](https://www.twitter.com/fukkaer) Send me a DM otherwise I won't notice, they get forwarded to my email.
 - Linkedin: No Linkedin, there's too much spam.
